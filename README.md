@@ -5,7 +5,7 @@
 This project forecasts residential electricity demand in Arizona using time series forecasting techniques. The dataset includes monthly electricity consumption and climate variables such as cooling and heating degree days.
 
 ### Dataset
-Electricity consumption and climate datasets for Arizona:
+Electricity consumption and climate datasets for Arizona are available in this repository:
 
 electricity_resid_AZ.csv
 climate_Phoenix_AZ
@@ -15,8 +15,6 @@ Variables used:
 - CLDD : cooling degree days
 - HTDD : heating degree days
 - DX90 : days above 90°F
-
-Dataset are available in the repository.
 
 ### Methodology
 1. Exploratory Data Analysis
